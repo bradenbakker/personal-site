@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Personal Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a personal website/portfolio for me! Feel free to use anything you find here  
+Early stages, will build out when I have spare time  
+Built in React, will host on Azure once I have an MVP ready
 
 ## Available Scripts
 
